@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @therealbosbelesherif. My real name is Berke and I am learning to code and aim to create my own games using Unity. I will track my progress here.
+- 🌱 I’m currently learning C, C# and Unity
+- 💞️ I’m looking to collaborate on anything really, I am very eager to learn and am open to any experience I can get. But game projects interest me the most.
+- 📫 If you need to contact me, you can email LutfenTekrar2@hotmail.com
